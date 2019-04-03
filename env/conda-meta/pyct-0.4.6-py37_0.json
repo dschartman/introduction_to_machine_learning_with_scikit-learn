@@ -1,0 +1,174 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "param >=1.7.0",
+    "python >=3.7,<3.8.0a0",
+    "pyyaml",
+    "requests"
+  ],
+  "extracted_package_dir": "/home/dschartman/miniconda3/pkgs/pyct-0.4.6-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/pyct-0.4.6.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/pyct-0.4.6.dist-info/LICENSE.txt",
+    "lib/python3.7/site-packages/pyct-0.4.6.dist-info/METADATA",
+    "lib/python3.7/site-packages/pyct-0.4.6.dist-info/RECORD",
+    "lib/python3.7/site-packages/pyct-0.4.6.dist-info/WHEEL",
+    "lib/python3.7/site-packages/pyct-0.4.6.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/pyct/.version",
+    "lib/python3.7/site-packages/pyct/__init__.py",
+    "lib/python3.7/site-packages/pyct/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/pyct/__pycache__/build.cpython-37.pyc",
+    "lib/python3.7/site-packages/pyct/__pycache__/cmd.cpython-37.pyc",
+    "lib/python3.7/site-packages/pyct/build.py",
+    "lib/python3.7/site-packages/pyct/cmd.py",
+    "lib/python3.7/site-packages/pyct/tests/__init__.py",
+    "lib/python3.7/site-packages/pyct/tests/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/pyct/tests/__pycache__/test_cmd.cpython-37.pyc",
+    "lib/python3.7/site-packages/pyct/tests/test_cmd.py"
+  ],
+  "fn": "pyct-0.4.6-py37_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/dschartman/miniconda3/pkgs/pyct-0.4.6-py37_0",
+    "type": 1
+  },
+  "md5": "ad5846d9f1cdfe27bb0de045b0fc69cb",
+  "name": "pyct",
+  "package_tarball_full_path": "/home/dschartman/miniconda3/pkgs/pyct-0.4.6-py37_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/pyct-0.4.6.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct-0.4.6.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "9a9547d15fc413a0569fe7c0ebb304852f230e571cbdc2a0e57249c6c4fc3d85",
+        "sha256_in_prefix": "9a9547d15fc413a0569fe7c0ebb304852f230e571cbdc2a0e57249c6c4fc3d85",
+        "size_in_bytes": 1479
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct-0.4.6.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "794eac66d61fd1a246bacc968ef91ec27442b3e4f862bda19bcd01db60ac6ad8",
+        "sha256_in_prefix": "794eac66d61fd1a246bacc968ef91ec27442b3e4f862bda19bcd01db60ac6ad8",
+        "size_in_bytes": 6474
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct-0.4.6.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "dfc8f9074602a072c1ee5d9612dcc265ae20eb2ef5da11662fe1c075aff46713",
+        "sha256_in_prefix": "dfc8f9074602a072c1ee5d9612dcc265ae20eb2ef5da11662fe1c075aff46713",
+        "size_in_bytes": 1128
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct-0.4.6.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ff024574e624ee2df1c53f0494e91426f39d3af7cd19b47d83e6dfe94413eac5",
+        "sha256_in_prefix": "ff024574e624ee2df1c53f0494e91426f39d3af7cd19b47d83e6dfe94413eac5",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct-0.4.6.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "66d9944bbe7c1bc541aa45a4d27e5bdf9f1f7a0444c589562e6eacb844197e74",
+        "sha256_in_prefix": "66d9944bbe7c1bc541aa45a4d27e5bdf9f1f7a0444c589562e6eacb844197e74",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/.version",
+        "path_type": "hardlink",
+        "sha256": "fdc92e45663e97c236907edf149194047f5d267c9863b5f4dc20d74c040d358c",
+        "sha256_in_prefix": "fdc92e45663e97c236907edf149194047f5d267c9863b5f4dc20d74c040d358c",
+        "size_in_bytes": 64
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e452a229b2c1ab2320fe9daeaed9aee0699203e0ef2b10c843eee2a9b0ecdd61",
+        "sha256_in_prefix": "e452a229b2c1ab2320fe9daeaed9aee0699203e0ef2b10c843eee2a9b0ecdd61",
+        "size_in_bytes": 134
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "a2b84d92dc500416658814e8c720859a072c7bb636f07104264f3d32f1598303",
+        "sha256_in_prefix": "a2b84d92dc500416658814e8c720859a072c7bb636f07104264f3d32f1598303",
+        "size_in_bytes": 282
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/__pycache__/build.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "bb36fabe12046b3eea425be813cd3135d2b7a00040c01e7f97ff640c86ec44fd",
+        "sha256_in_prefix": "bb36fabe12046b3eea425be813cd3135d2b7a00040c01e7f97ff640c86ec44fd",
+        "size_in_bytes": 837
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/__pycache__/cmd.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "1b947ab6f908fc916078f00bbfd1bd29fb4b9c2cc18bdc44cb9a74149f7769e6",
+        "sha256_in_prefix": "1b947ab6f908fc916078f00bbfd1bd29fb4b9c2cc18bdc44cb9a74149f7769e6",
+        "size_in_bytes": 13553
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/build.py",
+        "path_type": "hardlink",
+        "sha256": "9b450395c71189df8a6dd2e7609281fc0698221d9a0ed1f1a9a053cb47aed423",
+        "sha256_in_prefix": "9b450395c71189df8a6dd2e7609281fc0698221d9a0ed1f1a9a053cb47aed423",
+        "size_in_bytes": 821
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/cmd.py",
+        "path_type": "hardlink",
+        "sha256": "fc514c934bb61aaad84872954510ce18950c547445a88582c9677f7d929bc721",
+        "sha256_in_prefix": "fc514c934bb61aaad84872954510ce18950c547445a88582c9677f7d929bc721",
+        "size_in_bytes": 17873
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/tests/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f0d52d3916adc63540febc5fa18ef4866d9059d900f43ff9b6d140add1e72bf",
+        "sha256_in_prefix": "8f0d52d3916adc63540febc5fa18ef4866d9059d900f43ff9b6d140add1e72bf",
+        "size_in_bytes": 137
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/tests/__pycache__/test_cmd.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "9e701208a82565f757e8326494ab917e6e79ebaea3b2a8d66c291157b57d73b8",
+        "sha256_in_prefix": "9e701208a82565f757e8326494ab917e6e79ebaea3b2a8d66c291157b57d73b8",
+        "size_in_bytes": 7948
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyct/tests/test_cmd.py",
+        "path_type": "hardlink",
+        "sha256": "91e95ade35f40db3a642dcc4a8d769eae7d14e3b590161311905ec015a306ea4",
+        "sha256_in_prefix": "91e95ade35f40db3a642dcc4a8d769eae7d14e3b590161311905ec015a306ea4",
+        "size_in_bytes": 9323
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pyct",
+  "size": 23462,
+  "subdir": "linux-64",
+  "timestamp": 1545119486906,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/pyct-0.4.6-py37_0.tar.bz2",
+  "version": "0.4.6"
+}

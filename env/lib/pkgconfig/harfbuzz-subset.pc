@@ -1,0 +1,12 @@
+prefix=/home/dschartman/src/anacondacon.19/introduction_to_machine_learning_with_scikit-learn/env
+exec_prefix=/home/dschartman/src/anacondacon.19/introduction_to_machine_learning_with_scikit-learn/env
+libdir=/home/dschartman/src/anacondacon.19/introduction_to_machine_learning_with_scikit-learn/env/lib
+includedir=/home/dschartman/src/anacondacon.19/introduction_to_machine_learning_with_scikit-learn/env/include
+
+Name: harfbuzz
+Description: HarfBuzz font subsetter
+Version: 1.8.8
+
+Requires: harfbuzz
+Libs: -L${libdir} -lharfbuzz-subset
+Cflags: -I${includedir}/harfbuzz
