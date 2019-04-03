@@ -128,3 +128,11 @@
 +defaults::scikit-learn-0.20.3-py37hd81dba3_0
 +defaults::scipy-1.2.1-py37h7c811a0_0
 # update specs: ['scikit-learn']
+==> 2019-04-03 10:21:40 <==
+# cmd: /home/dschartman/miniconda3/bin/conda install panel
+# conda version: 4.6.9
+-defaults::testpath-0.4.2-py37_0
++defaults::markdown-3.0.1-py37_0
++defaults::panel-0.4.0-0
++defaults::testpath-0.3.1-py37_0
+# update specs: ['panel']

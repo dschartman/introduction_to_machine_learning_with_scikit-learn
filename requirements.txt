@@ -1,4 +1,14 @@
 jupyter
 pandas
 hvplot
-sklearn
+scikit-learn
+panel
+numpy
+matplotlib
+seaborn
+graphviz
+pillow
+python-graphviz
+numba
+pyct
+colorcet
