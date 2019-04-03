@@ -1,0 +1,11 @@
+prefix=/home/dschartman/src/anacondacon.19/introduction_to_machine_learning_with_scikit-learn/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: XCB DRI2
+Description: XCB DRI2 Extension
+Version: 1.13
+Requires.private: xcb
+Libs: -L${libdir} -lxcb-dri2
+Cflags: -I${includedir}

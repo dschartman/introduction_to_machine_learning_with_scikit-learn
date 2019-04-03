@@ -1,0 +1,11 @@
+prefix=/home/dschartman/src/anacondacon.19/introduction_to_machine_learning_with_scikit-learn/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 1.0.3
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid

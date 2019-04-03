@@ -1,0 +1,11 @@
+prefix=/home/dschartman/src/anacondacon.19/introduction_to_machine_learning_with_scikit-learn/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libsodium
+Version: 1.0.16
+Description: A modern and easy-to-use crypto library
+
+Libs: -L${libdir} -lsodium
+Cflags: -I${includedir}

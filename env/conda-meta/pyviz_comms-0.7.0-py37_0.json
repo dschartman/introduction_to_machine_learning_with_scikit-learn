@@ -1,0 +1,116 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "param",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/home/dschartman/miniconda3/pkgs/pyviz_comms-0.7.0-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/LICENSE.txt",
+    "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/METADATA",
+    "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/RECORD",
+    "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/WHEEL",
+    "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/pyviz_comms/.version",
+    "lib/python3.7/site-packages/pyviz_comms/__init__.py",
+    "lib/python3.7/site-packages/pyviz_comms/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/pyviz_comms/notebook.js"
+  ],
+  "fn": "pyviz_comms-0.7.0-py37_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/dschartman/miniconda3/pkgs/pyviz_comms-0.7.0-py37_0",
+    "type": 1
+  },
+  "md5": "3b4d6d7c08422b66efe04fe89c656a36",
+  "name": "pyviz_comms",
+  "package_tarball_full_path": "/home/dschartman/miniconda3/pkgs/pyviz_comms-0.7.0-py37_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "6e135fd60b9060c54a845f06b6a11254549b7c985410c00d1186667c371dfe70",
+        "sha256_in_prefix": "6e135fd60b9060c54a845f06b6a11254549b7c985410c00d1186667c371dfe70",
+        "size_in_bytes": 1499
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a759c6d96e47374822133759e64cf2946f5075d00a431716efbbca4b38f7834d",
+        "sha256_in_prefix": "a759c6d96e47374822133759e64cf2946f5075d00a431716efbbca4b38f7834d",
+        "size_in_bytes": 2857
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "dec497c11637608ac97e10a081d9364b56f0f23cd5057248031e08f4e7d8be33",
+        "sha256_in_prefix": "dec497c11637608ac97e10a081d9364b56f0f23cd5057248031e08f4e7d8be33",
+        "size_in_bytes": 797
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1817faef8e5327c3d44957f4d0b4d0b3fc3e3ac5330fd59cefde6d149b74194b",
+        "sha256_in_prefix": "1817faef8e5327c3d44957f4d0b4d0b3fc3e3ac5330fd59cefde6d149b74194b",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyviz_comms-0.7.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "74d77425eebe95ee22363ed9a810285873315748e225f2f58c8db6b3d59ab7d1",
+        "sha256_in_prefix": "74d77425eebe95ee22363ed9a810285873315748e225f2f58c8db6b3d59ab7d1",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyviz_comms/.version",
+        "path_type": "hardlink",
+        "sha256": "180822cfbc2bd06ee566777c17a7ae6a4b449b33af678782731fe55a877835c6",
+        "sha256_in_prefix": "180822cfbc2bd06ee566777c17a7ae6a4b449b33af678782731fe55a877835c6",
+        "size_in_bytes": 64
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyviz_comms/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0aaf2e27120987ef2ee61c6a42e31c4f0027698edfd39517f9eac424d3916553",
+        "sha256_in_prefix": "0aaf2e27120987ef2ee61c6a42e31c4f0027698edfd39517f9eac424d3916553",
+        "size_in_bytes": 16060
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyviz_comms/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "1e8530cab94552ad587c0fe573c0b3e9a65cef6dc180830b50360b493899ee6e",
+        "sha256_in_prefix": "1e8530cab94552ad587c0fe573c0b3e9a65cef6dc180830b50360b493899ee6e",
+        "size_in_bytes": 17006
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyviz_comms/notebook.js",
+        "path_type": "hardlink",
+        "sha256": "7ec4bf0ef7a6de5122e3d6fbd068db40b143139668e2c704ab6b4190babe4d02",
+        "sha256_in_prefix": "7ec4bf0ef7a6de5122e3d6fbd068db40b143139668e2c704ab6b4190babe4d02",
+        "size_in_bytes": 3451
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 17836,
+  "subdir": "linux-64",
+  "timestamp": 1547983480829,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/pyviz_comms-0.7.0-py37_0.tar.bz2",
+  "version": "0.7.0"
+}

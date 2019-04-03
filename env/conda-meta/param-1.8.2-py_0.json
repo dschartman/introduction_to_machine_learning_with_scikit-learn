@@ -1,0 +1,158 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/home/dschartman/miniconda3/pkgs/param-1.8.2-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/numbergen/__init__.py",
+    "lib/python3.7/site-packages/param-1.8.2.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/param-1.8.2.dist-info/LICENSE.txt",
+    "lib/python3.7/site-packages/param-1.8.2.dist-info/METADATA",
+    "lib/python3.7/site-packages/param-1.8.2.dist-info/RECORD",
+    "lib/python3.7/site-packages/param-1.8.2.dist-info/WHEEL",
+    "lib/python3.7/site-packages/param-1.8.2.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/param/.version",
+    "lib/python3.7/site-packages/param/__init__.py",
+    "lib/python3.7/site-packages/param/ipython.py",
+    "lib/python3.7/site-packages/param/parameterized.py",
+    "lib/python3.7/site-packages/param/version.py",
+    "lib/python3.7/site-packages/numbergen/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/param/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/param/__pycache__/ipython.cpython-37.pyc",
+    "lib/python3.7/site-packages/param/__pycache__/parameterized.cpython-37.pyc",
+    "lib/python3.7/site-packages/param/__pycache__/version.cpython-37.pyc"
+  ],
+  "fn": "param-1.8.2-py_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/dschartman/miniconda3/pkgs/param-1.8.2-py_0",
+    "type": 1
+  },
+  "md5": "0fc7f8620610cd9e17cfbb538dca802a",
+  "name": "param",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/dschartman/miniconda3/pkgs/param-1.8.2-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/numbergen/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0f4aa47885e46a4611a788aa78b98a5bf46e3bcbd4a69c165676e8b1d8dca246",
+        "sha256_in_prefix": "0f4aa47885e46a4611a788aa78b98a5bf46e3bcbd4a69c165676e8b1d8dca246",
+        "size_in_bytes": 26699
+      },
+      {
+        "_path": "site-packages/param-1.8.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "site-packages/param-1.8.2.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "6e135fd60b9060c54a845f06b6a11254549b7c985410c00d1186667c371dfe70",
+        "sha256_in_prefix": "6e135fd60b9060c54a845f06b6a11254549b7c985410c00d1186667c371dfe70",
+        "size_in_bytes": 1499
+      },
+      {
+        "_path": "site-packages/param-1.8.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "29f2af2aff65f276e71f2ea59fa10a4567e01842418a85d22d149fe299ce7361",
+        "sha256_in_prefix": "29f2af2aff65f276e71f2ea59fa10a4567e01842418a85d22d149fe299ce7361",
+        "size_in_bytes": 2851
+      },
+      {
+        "_path": "site-packages/param-1.8.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "bfbeb0d863e747ff704907b20ce97d03c1252cb1b5d68d739e20452a5da43256",
+        "sha256_in_prefix": "bfbeb0d863e747ff704907b20ce97d03c1252cb1b5d68d739e20452a5da43256",
+        "size_in_bytes": 1046
+      },
+      {
+        "_path": "site-packages/param-1.8.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "68489635341c1ba02218601843da874e27f22919e6149bc379323484fe5aa216",
+        "sha256_in_prefix": "68489635341c1ba02218601843da874e27f22919e6149bc379323484fe5aa216",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "site-packages/param-1.8.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3b010bea829229e31b66ff6b97eaca24243aef377c2c544e9b5a97a9e1e97a39",
+        "sha256_in_prefix": "3b010bea829229e31b66ff6b97eaca24243aef377c2c544e9b5a97a9e1e97a39",
+        "size_in_bytes": 16
+      },
+      {
+        "_path": "site-packages/param/.version",
+        "path_type": "hardlink",
+        "sha256": "82258dff953294d411b5348aa34ca682a944199b3504f3a65e2e7721bd524423",
+        "sha256_in_prefix": "82258dff953294d411b5348aa34ca682a944199b3504f3a65e2e7721bd524423",
+        "size_in_bytes": 64
+      },
+      {
+        "_path": "site-packages/param/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "40f54fbcf057fe5b00b3b4bcbc841d2c084adb61077cbb91461b2e38a2453090",
+        "sha256_in_prefix": "40f54fbcf057fe5b00b3b4bcbc841d2c084adb61077cbb91461b2e38a2453090",
+        "size_in_bytes": 63671
+      },
+      {
+        "_path": "site-packages/param/ipython.py",
+        "path_type": "hardlink",
+        "sha256": "0bfc7d47ff3cbc39060992123b1681235d5d5e8a4af6d4a063571fbc19d16109",
+        "sha256_in_prefix": "0bfc7d47ff3cbc39060992123b1681235d5d5e8a4af6d4a063571fbc19d16109",
+        "size_in_bytes": 12571
+      },
+      {
+        "_path": "site-packages/param/parameterized.py",
+        "path_type": "hardlink",
+        "sha256": "52ddb9be8163468d40f05ba3fa6c0b43e42f5192f58e8d09944e0acbac71b3b3",
+        "sha256_in_prefix": "52ddb9be8163468d40f05ba3fa6c0b43e42f5192f58e8d09944e0acbac71b3b3",
+        "size_in_bytes": 98975
+      },
+      {
+        "_path": "site-packages/param/version.py",
+        "path_type": "hardlink",
+        "sha256": "9502f26eeab30ec325cc87e61760bbda62cb5bd34564acb7a4e0df389c7fcfa8",
+        "sha256_in_prefix": "9502f26eeab30ec325cc87e61760bbda62cb5bd34564acb7a4e0df389c7fcfa8",
+        "size_in_bytes": 30509
+      },
+      {
+        "_path": "lib/python3.7/site-packages/numbergen/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/param/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/param/__pycache__/ipython.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/param/__pycache__/parameterized.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/param/__pycache__/version.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 61019,
+  "subdir": "noarch",
+  "timestamp": 1548799345103,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/param-1.8.2-py_0.tar.bz2",
+  "version": "1.8.2"
+}
