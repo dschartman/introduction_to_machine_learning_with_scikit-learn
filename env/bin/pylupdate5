@@ -1,2 +1,0 @@
-#!/bin/sh
-exec /home/dschartman/src/anacondacon.19/introduction_to_machine_learning_with_scikit-learn/env/bin/python -m PyQt5.pylupdate_main ${1+"$@"}

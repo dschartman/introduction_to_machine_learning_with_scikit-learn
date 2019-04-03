@@ -1,9 +1,0 @@
-prefix=/home/dschartman/src/anacondacon.19/introduction_to_machine_learning_with_scikit-learn/env
-libdir=${prefix}/lib64
-includedir=${prefix}/include
-
-Name: GNU FriBidi
-Description: Unicode Bidirectional Algorithm Library
-Version: 1.0.5
-Libs: -L${libdir} -lfribidi
-Cflags: -I${includedir}/fribidi

@@ -1,9 +1,0 @@
-prefix=/home/dschartman/src/anacondacon.19/introduction_to_machine_learning_with_scikit-learn/env
-exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
-includedir=${prefix}/include
-
-Name: OpenSSL
-Description: Secure Sockets Layer and cryptography libraries and tools
-Version: 1.1.1b
-Requires: libssl libcrypto
